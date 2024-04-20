@@ -1,6 +1,9 @@
 
 # GitHub Simplified to zom
 
+This repository is made to simplify the understanding of GitHub and Git commands. It is a simple guide to help you get started with GitHub and Git commands.
+(like if u where a zom)
+
 ## Table of Contents
 - [GitHub Simplified to zom](#github-simplified-to-zom)
   - [Table of Contents](#table-of-contents)
